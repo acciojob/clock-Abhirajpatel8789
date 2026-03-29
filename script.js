@@ -1,6 +1,6 @@
 //your JS code here. If required.
 let para = document.querySelector("#day");
-         let span = document.querySelector("#time");
+         let span = document.querySelector("#timer");
 
          let date = new Date();
 
